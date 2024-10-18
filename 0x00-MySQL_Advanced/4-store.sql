@@ -1,0 +1,2 @@
+-- SQL script to create a trigger to
+-- validate email addresses
