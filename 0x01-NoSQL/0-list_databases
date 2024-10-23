@@ -1,0 +1,3 @@
+// a mongodb script to list all databases
+#!/usr/bin/mongo
+show dbs
