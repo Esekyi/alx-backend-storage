@@ -1,0 +1,3 @@
+// insert new document to the collection
+#!/usr/bin/mongo
+db.school.insert({name: "Holberton school"});
