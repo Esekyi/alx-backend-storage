@@ -1,0 +1,3 @@
+// script to list all document in a collection
+#!/usr/bin/mongo
+db.school.find();
